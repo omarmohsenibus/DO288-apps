@@ -19,7 +19,7 @@ echo '--- system env'
 env
 
 echo '---'
-while [true]
+while true
 do
   echo 'sleeping for 5 sec'
   sleep 5
