@@ -5,7 +5,7 @@
          <mirror>
          <id>internal-repository</id>
          <name>Maven Repository Manager for classroom</name>
-         <url>http://nexus-infra.apps.ocp4.example.com/repository/java</url>
+         <url>https://repo1.maven.org/maven2</url>
          <mirrorOf>*</mirrorOf>
          </mirror>
        </mirrors>
